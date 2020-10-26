@@ -57,3 +57,10 @@ SyntaxError: invalid syntax
     mar.vai ()
 NameError: name 'mar' is not defined
 '''},
+{'date': 'Mon Oct 26 2020 15:25:04.862 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 22
+  mar.vai():
+            ^
+SyntaxError: invalid syntax
+'''},
