@@ -20,3 +20,10 @@ IndentationError: expected an indented block
                                        ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Oct 26 2020 15:12:17.975 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 16
+  abelha = Elemento(img= ABELHA, tit "ooi")
+                                      ^
+SyntaxError: invalid syntax
+'''},
