@@ -34,3 +34,10 @@ SyntaxError: invalid syntax
   ^
 IndentationError: expected an indented block
 '''},
+{'date': 'Mon Oct 26 2020 15:24:47.931 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 23
+  jogo():
+         ^
+SyntaxError: invalid syntax
+'''},
