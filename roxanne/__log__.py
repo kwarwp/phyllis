@@ -6,3 +6,10 @@
               ^
 SyntaxError: invalid syntax
 '''},
+{'date': 'Mon Oct 26 2020 14:46:23.746 GMt-0300 (Horário Padrão de Brasília) -X- SuPyGirls -X-',
+'error': '''
+ module <string> line 6
+  mar=Cena(img= MAR)
+  ^
+IndentationError: expected an indented block
+'''},
